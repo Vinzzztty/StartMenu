@@ -1,0 +1,16 @@
+﻿<Window x:Class="StartMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StartMenu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920" WindowStartupLocation="CenterOwner">
+    <Grid Width="1920" Height="1080" Background="Black">
+        <Image HorizontalAlignment="Center" Height="233" Margin="0,263,0,0" VerticalAlignment="Top" Width="696" Source="/TETRIS.png" RenderTransformOrigin="0.511,0.513"/>
+        <Image HorizontalAlignment="Center" Height="122" Margin="0,492,0,0" VerticalAlignment="Top" Width="364" Source="/Group 2.png" RenderTransformOrigin="0.511,0.513"/>
+        <Image HorizontalAlignment="Center" Height="122" Margin="0,651,0,0" VerticalAlignment="Top" Width="364" Source="/Group 3.png" RenderTransformOrigin="0.511,0.513"/>
+        <Image HorizontalAlignment="Center" Height="1821" Margin="0,55,0,0" VerticalAlignment="Top" Width="1820" Source="/Rectangle 9 (1).png"/>
+
+    </Grid>
+</Window>
